@@ -73,10 +73,10 @@ function startApp() {
             }
         ]).then(teamBuilderChoice => {
             switch(teamBuilderChoice.teamMemberChoice) {
-                case "Engineer":
+                case "Engineer.":
                     addEngineer();
                     break;
-                case "Intern":
+                case "Intern.":
                     addIntern();
                     break;
                 default:
