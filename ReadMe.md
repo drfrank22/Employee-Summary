@@ -2,7 +2,7 @@
 
 ## Description
 
-This project creates a way for you to create a manager and assign team members and their roles.
+This project is a Command Line Interface (CLI) and allows a way for you to create an employee summary for your business. It will add in the manager for a team, as well as adding in engineers and interns for the manager. Future development for this app would allow for multiple managers, positions and roles to be updated and deleted as well. It also outputs an html document (if none exists already) with the information provided.
 
 ## Table of Contents 
 
@@ -28,7 +28,7 @@ npm i
 
 ## Usage
 
-You will need to run the install and then run node app in the command line to initiate the app.
+You will need to run the install and then run `npm start` in the command line to initiate the app.
 
 ## License
 
@@ -50,5 +50,7 @@ npm test
 
 If you have any questions about the repo,please contact me at drfrank22@gmail.com.
 
-<!-- <iframe src="https://drive.google.com/file/d/1wpcLxeMBOBtJTtXxvOw-ciIvW_7EX6Lz/preview" width="640" height="480"></iframe> -->
+## Demo
+<img src="./assets/demo.png">
 
+<a href="https://www.youtube.com/watch?v=ubtm43GavPA&feature=youtu.be">Check out a demo here</a>
